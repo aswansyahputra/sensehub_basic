@@ -1,0 +1,193 @@
+Panelist,Smoothies,Comments
+P1,Immedia_MP,strong taste;slight pieces;slightly acidic
+P1,Carrefour_MP,acid;sweet;citrus fruits
+P1,Immedia_SRB,few lumps;bad texture;taste like tea
+P1,Casino_SRB,few lumps;bad texture;taste like tea
+P1,Innocent_PBC,very soft;exotic fruits;creamy texture
+P1,Casino_PBC,very soft;exotic fruits;creamy texture
+P1,Innocent_SB,few lumps;bad texture;taste like tea
+P1,Carrefour_SB,very soft;exotic fruits;creamy texture
+P2,Immedia_MP,strong taste
+P2,Carrefour_MP,strong taste
+P2,Immedia_SRB,nippy
+P2,Casino_SRB,bitterness
+P2,Innocent_PBC,banana
+P2,Casino_PBC,banana
+P2,Innocent_SB,bitterness
+P2,Carrefour_SB,very creamy;slight fruity taste
+P3,Immedia_MP,G1
+P3,Carrefour_MP,G2
+P3,Immedia_SRB,G2
+P3,Casino_SRB,G2
+P3,Innocent_PBC,G3
+P3,Casino_PBC,G3
+P3,Innocent_SB,G1
+P3,Carrefour_SB,G1
+P4,Immedia_MP,acidity
+P4,Carrefour_MP,acidity
+P4,Immedia_SRB,acidity
+P4,Casino_SRB,thick liquid;sickly sweet taste
+P4,Innocent_PBC,coco
+P4,Casino_PBC,coco
+P4,Innocent_SB,thick liquid;sickly sweet taste
+P4,Carrefour_SB,thick liquid;sickly sweet taste
+P5,Immedia_MP,exotic fruits;acid
+P5,Carrefour_MP,exotic fruits;acid
+P5,Immedia_SRB,exotic fruits;acid
+P5,Casino_SRB,exotic fruits;acid
+P5,Innocent_PBC,banana flavor;heavy
+P5,Casino_PBC,banana flavor;heavy
+P5,Innocent_SB,unknown taste;heavy
+P5,Carrefour_SB,unknown taste;heavy
+P6,Immedia_MP,acid
+P6,Carrefour_MP,acid
+P6,Immedia_SRB,acid
+P6,Casino_SRB,sweet;less acidic
+P6,Innocent_PBC,sweet;less acidic
+P6,Casino_PBC,tasteless
+P6,Innocent_SB,sweet;less acidic
+P6,Carrefour_SB,too bitter
+P7,Immedia_MP,pulp;fruity
+P7,Carrefour_MP,pulp;fruity
+P7,Immedia_SRB,no pulp;exotic
+P7,Casino_SRB,pulp;sweet
+P7,Innocent_PBC,pulp;sweet
+P7,Casino_PBC,no pulp;exotic
+P7,Innocent_SB,pulp;fruity
+P7,Carrefour_SB,bitter
+P8,Immedia_MP,sweet
+P8,Carrefour_MP,acid
+P8,Immedia_SRB,acid
+P8,Casino_SRB,acid
+P8,Innocent_PBC,sweet
+P8,Casino_PBC,sweet
+P8,Innocent_SB,sweet
+P8,Carrefour_SB,nicer;less sweet
+P9,Immedia_MP,more or less acid
+P9,Carrefour_MP,more or less acid
+P9,Immedia_SRB,more or less acid
+P9,Casino_SRB,more or less tasteless
+P9,Innocent_PBC,more or less sweet
+P9,Casino_PBC,more or less sweet
+P9,Innocent_SB,strong taste
+P9,Carrefour_SB,more or less tasteless
+P10,Immedia_MP,pineapple
+P10,Carrefour_MP,acid;with small grains like guava or strawberry
+P10,Immedia_SRB,acid;with small grains like guava or strawberry
+P10,Casino_SRB,acid;with small grains like guava or strawberry
+P10,Innocent_PBC,banana;coco;soft;sweet
+P10,Casino_PBC,banana;coco;soft;sweet
+P10,Innocent_SB,pineapple
+P10,Carrefour_SB,banana;coco;soft;sweet
+P11,Immedia_MP,exotic
+P11,Carrefour_MP,exotic
+P11,Immedia_SRB,strawberry
+P11,Casino_SRB,exotic
+P11,Innocent_PBC,exotic
+P11,Casino_PBC,soft
+P11,Innocent_SB,strawberry
+P11,Carrefour_SB,soft
+P12,Immedia_MP,peach;apricot
+P12,Carrefour_MP,peach;apricot
+P12,Immedia_SRB,banana
+P12,Casino_SRB,peach;apricot
+P12,Innocent_PBC,banana
+P12,Casino_PBC,banana
+P12,Innocent_SB,strawberry;raspberry
+P12,Carrefour_SB,peach;apricot
+P13,Immedia_MP,soft fruits
+P13,Carrefour_MP,orange juice
+P13,Immedia_SRB,soft fruits
+P13,Casino_SRB,soft fruits
+P13,Innocent_PBC,banana;nippy;citrus fruits
+P13,Casino_PBC,thick;pure;banana;vanilla
+P13,Innocent_SB,mixture
+P13,Carrefour_SB,banana;nippy;citrus fruits
+P14,Immedia_MP,liquid;few pieces;I like
+P14,Carrefour_MP,fruit taste;cold
+P14,Immedia_SRB,I hate
+P14,Casino_SRB,liquid;few pieces;I like
+P14,Innocent_PBC,I hate
+P14,Casino_PBC,I hate
+P14,Innocent_SB,strawberry raspberry taste;intense
+P14,Carrefour_SB,undefinable
+P15,Immedia_MP,summer;exotic;slightly acid
+P15,Carrefour_MP,summer;exotic;slightly acid
+P15,Immedia_SRB,soft fruits;sorbets
+P15,Casino_SRB,soft fruits;sorbets
+P15,Innocent_PBC,sickly;I dont like
+P15,Casino_PBC,sickly;I dont like
+P15,Innocent_SB,soft fruits;sorbets
+P15,Carrefour_SB,sickly;I dont like
+P16,Immedia_MP,acid
+P16,Carrefour_MP,acid
+P16,Immedia_SRB,acid
+P16,Casino_SRB,liquid;fruit juice;unknown taste
+P16,Innocent_PBC,creamy;soft
+P16,Casino_PBC,creamy;soft
+P16,Innocent_SB,acid
+P16,Carrefour_SB,tasteless;neutral
+P17,Immedia_MP,slightly acid;liquid;unkown taste
+P17,Carrefour_MP,slightly acid;liquid;unkown taste
+P17,Immedia_SRB,soft fruits;liquid;acid
+P17,Casino_SRB,no sweet;liquid;tasteless
+P17,Innocent_PBC,banana;sweet;doughy
+P17,Casino_PBC,banana;sweet;doughy
+P17,Innocent_SB,doughy;slightly tasteless;not too sweet
+P17,Carrefour_SB,doughy;slightly tasteless;not too sweet
+P18,Immedia_MP,banana;apple;pear;ananas;acid
+P18,Carrefour_MP,soft fruits;blueberry;raspberry
+P18,Immedia_SRB,soft fruits;blueberry;raspberry
+P18,Casino_SRB,soft fruits;blueberry;raspberry
+P18,Innocent_PBC,banana;strawberry;thick
+P18,Casino_PBC,banana;very sweet;thick;soft
+P18,Innocent_SB,banana;strawberry;thick
+P18,Carrefour_SB,banana;strawberry;thick
+P19,Immedia_MP,ordinary;nice
+P19,Carrefour_MP,acid;thick
+P19,Immedia_SRB,acid;thick
+P19,Casino_SRB,few taste
+P19,Innocent_PBC,soft;nice;good
+P19,Casino_PBC,soft;tasteless;unpleasant
+P19,Innocent_SB,soft;nice;good
+P19,Carrefour_SB,soft;tasteless;unpleasant
+P20,Immedia_MP,orange
+P20,Carrefour_MP,orange
+P20,Immedia_SRB,strawberry;good;thick
+P20,Casino_SRB,orange
+P20,Innocent_PBC,strawberry;thick;sweet
+P20,Casino_PBC,strawberry;thick;sweet
+P20,Innocent_SB,strawberry;acid
+P20,Carrefour_SB,strawberry;thick
+P21,Immedia_MP,banana flavor;smell
+P21,Carrefour_MP,litchi taste
+P21,Immedia_SRB,litchi taste
+P21,Casino_SRB,litchi taste
+P21,Innocent_PBC,banana flavor;smell
+P21,Casino_PBC,banana flavor;smell
+P21,Innocent_SB,unknown taste
+P21,Carrefour_SB,unknown taste
+P22,Immedia_MP,soft fruits;soft;sweet
+P22,Carrefour_MP,acid;strong;soft fruits
+P22,Immedia_SRB,acid;strong;soft fruits
+P22,Casino_SRB,acid;strong;soft fruits
+P22,Innocent_PBC,soft;smooth in the mouth;no soft fruits
+P22,Casino_PBC,soft;smooth in the mouth;no soft fruits
+P22,Innocent_SB,soft fruits;soft;sweet
+P22,Carrefour_SB,soft fruits;soft;sweet
+P23,Immedia_MP,sweet
+P23,Carrefour_MP,very sweet
+P23,Immedia_SRB,very sweet
+P23,Casino_SRB,sweet
+P23,Innocent_PBC,exotic
+P23,Casino_PBC,exotic
+P23,Innocent_SB,thick in the mouth;slightly sweet
+P23,Carrefour_SB,thick in the mouth;slightly sweet
+P24,Immedia_MP,slightly acid
+P24,Carrefour_MP,slightly acid
+P24,Immedia_SRB,sweet;liquid
+P24,Casino_SRB,slightly acid
+P24,Innocent_PBC,doughy;sweet
+P24,Casino_PBC,doughy;sweet
+P24,Innocent_SB,doughy;sweet
+P24,Carrefour_SB,doughy;sweet
