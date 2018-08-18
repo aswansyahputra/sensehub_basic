@@ -6,7 +6,7 @@ ui <- tagList(
     tags$style(type = "text/css", "body {padding-top: 70px;}")
   ),
   navbarPage(
-    title = "SenseHub",
+    title = "SenseHub - Basic",
     position = "fixed-top",
     collapsible = TRUE,
     theme = shinytheme("flatly"),
@@ -19,7 +19,7 @@ ui <- tagList(
     tabPanel(
       "Performa Panelis",
       icon = icon("address-card"),
-      performaPanelisUI("performa")
+      h1("Maaf, fitur ini hanya tersedia di SenseHub - Pro. Silakan kontak info@sensolution.id untuk mendapatkan SenseHub - Pro.")
     ),
     tabPanel(
       "Uji Diskriminatif",
@@ -36,15 +36,15 @@ ui <- tagList(
       ),
       tabPanel(
         "Flash Profiling (FP)",
-        metodeFpUI("fp")
+        h1("Maaf, fitur ini hanya tersedia di SenseHub - Pro. Silakan kontak info@sensolution.id untuk mendapatkan SenseHub - Pro.")
       ),
       tabPanel(
         "Free Choice Profiling (FCP)",
-        metodeFcpUI("fcp")
+        h1("Maaf, fitur ini hanya tersedia di SenseHub - Pro. Silakan kontak info@sensolution.id untuk mendapatkan SenseHub - Pro.")
       ),
       tabPanel(
         "Rate-all-that-Apply (RATA)",
-        metodeRataUI("rata")
+        h1("Maaf, fitur ini hanya tersedia di SenseHub - Pro. Silakan kontak info@sensolution.id untuk mendapatkan SenseHub - Pro.")
       ),
       "----",
       "Kualitatif",
@@ -54,13 +54,13 @@ ui <- tagList(
       ),
       tabPanel(
         "Rate-all-that-Apply (RATA as CATA)",
-        metodeRata2UI("rata_as_cata")
+        h1("Maaf, fitur ini hanya tersedia di SenseHub - Pro. Silakan kontak info@sensolution.id untuk mendapatkan SenseHub - Pro.")
       ),
       "----",
       "Sorting",
       tabPanel(
         "Sorting Task",
-        metodeSortingUI("sorting")
+        h1("Maaf, fitur ini hanya tersedia di SenseHub - Pro. Silakan kontak info@sensolution.id untuk mendapatkan SenseHub - Pro.")
       ),
       tabPanel(
         "Hierarchical Sorting Task",
@@ -70,8 +70,7 @@ ui <- tagList(
       "Projective Mapping",
       tabPanel(
         "Napping",
-        metodeNappingUI("napping")
-      ),
+        h1("Maaf, fitur ini hanya tersedia di SenseHub - Pro. Silakan kontak info@sensolution.id untuk mendapatkan SenseHub - Pro.")      ),
       tabPanel(
         "Sorted Napping",
         h1("Maaf, fitur sedang dalam tahap pengembangan.")
@@ -90,14 +89,14 @@ ui <- tagList(
       tabPanel(
         "Paired Preference",
         pairedPreferenceUI("pairedpref")
-      ),
+        ),
       tabPanel(
         "Multiple Paired Preference",
-        multpairedPreferenceUI("multpref")
+        h1("Maaf, fitur ini hanya tersedia di SenseHub - Pro. Silakan kontak info@sensolution.id untuk mendapatkan SenseHub - Pro.")
       ),
       tabPanel(
         "Preference Ranking",
-        preferenceRankingUI("prefrank")
+        h1("Maaf, fitur ini hanya tersedia di SenseHub - Pro. Silakan kontak info@sensolution.id untuk mendapatkan SenseHub - Pro.")
       ),
       "----",
       "Hedonik",
@@ -121,7 +120,7 @@ ui <- tagList(
       icon = icon("arrow-up"),
       tabPanel(
         "Just-about-Right (JAR)",
-        metodeJarUI("jar")
+        h1("Maaf, fitur ini hanya tersedia di SenseHub - Pro. Silakan kontak info@sensolution.id untuk mendapatkan SenseHub - Pro.")
       ),
       tabPanel(
         "Ideal Profile Method (IPM)",
@@ -133,30 +132,6 @@ ui <- tagList(
       icon = icon("support"),
       wellPanel(
         includeMarkdown("README.md")
-      )
-    ),
-    tabPanel(
-      "Keluar",
-      icon = icon("sign-out"),
-      fluidRow(
-        column(4),
-        column(
-          4,
-          wellPanel(
-            h4("Apakah Anda yakin ingin keluar?"),
-            actionButton(
-              "kembali",
-              "Kembali",
-              onclick = "location.href='https://sensehub.sensolution.id/';"
-            ),
-            actionButton(
-              "keluar",
-              "Keluar",
-              onclick = "location.href='https://sensehub.sensolution.id/logout';"
-            )
-          )
-        ),
-        column(4)
       )
     )
   )
